@@ -5,6 +5,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
+  line-height: 220%;
 
   background-image: url(../asset/img/sfondo.png);
   width: 450px;
@@ -43,6 +44,7 @@ nav a {
 
 .nav_li {
   list-style-type: none;
+  margin-bottom: 0;
 }
 
 /* MAIN */
@@ -169,7 +171,7 @@ button {
 
 .text_form {
   text-align: start;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   padding-left: 10px;
 }
 
